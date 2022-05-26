@@ -1,1 +1,2 @@
-"# python-matura-z-informatyki" 
+Rozwiązania zadań z programowania do matury z informatyki przy użyciu języka Python (czasem może wpaść C++ dla sportu).
+Postaram się, żeby rozwiązania były całkiem eleganckie ale wiadomo na maturkach to małpi kod xd
